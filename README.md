@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Twinklekumari2/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Twinklekumari2/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Twinklekumari2/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Array
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Twinklekumari2/Leetcode/tree/master/0994-rotting-oranges) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Twinklekumari2/Leetcode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Twinklekumari2/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
