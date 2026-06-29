@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Twinklekumari2/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Twinklekumari2/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Twinklekumari2/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Twinklekumari2/Leetcode/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Twinklekumari2/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Twinklekumari2/Leetcode/tree/master/0901-online-stock-span) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Twinklekumari2/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Twinklekumari2/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Twinklekumari2/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Twinklekumari2/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Twinklekumari2/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/Twinklekumari2/Leetcode/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
