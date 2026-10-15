@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Twinklekumari2/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Twinklekumari2/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Twinklekumari2/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/Twinklekumari2/Leetcode/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Twinklekumari2/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Twinklekumari2/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Array
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Twinklekumari2/Leetcode/tree/master/0044-wildcard-matching) |
 | [1143-longest-common-subsequence](https://github.com/Twinklekumari2/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Twinklekumari2/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Twinklekumari2/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Twinklekumari2/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Twinklekumari2/Leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Twinklekumari2/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
