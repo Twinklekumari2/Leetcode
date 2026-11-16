@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Twinklekumari2/Leetcode/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Twinklekumari2/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Twinklekumari2/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Twinklekumari2/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Twinklekumari2/Leetcode/tree/master/0044-wildcard-matching) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Twinklekumari2/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
