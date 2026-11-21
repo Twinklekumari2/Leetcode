@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Twinklekumari2/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Twinklekumari2/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Twinklekumari2/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Twinklekumari2/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Twinklekumari2/Leetcode/tree/master/0994-rotting-oranges) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Twinklekumari2/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Twinklekumari2/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Twinklekumari2/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Twinklekumari2/Leetcode/tree/master/0013-roman-to-integer) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Twinklekumari2/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Twinklekumari2/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Math
 |  |
 | ------- |
@@ -111,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Twinklekumari2/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Twinklekumari2/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Twinklekumari2/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Twinklekumari2/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Twinklekumari2/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Twinklekumari2/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Twinklekumari2/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Twinklekumari2/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
